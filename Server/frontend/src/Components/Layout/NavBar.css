@@ -1,0 +1,42 @@
+
+.navbar-brand img{
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+}
+.navbar ul li{
+    font-size: 15px;
+    color: white;
+    font-weight: bold;
+}
+
+.navbar ul li:hover{
+    cursor: pointer;
+}
+
+#Navlink{
+    color: white;
+}
+#navBarHeading{
+    color: rgb(125, 120, 129);
+    font-size: 150%;
+    font-weight: bold;
+}
+#card-count{
+    position: absolute;
+    left: 390px;
+    top: 23px;
+    z-index: 1;
+    color: red;
+    font-weight: bold;
+    width: 10px;
+    height: 10px;
+    padding: 5px;
+    border-radius: 50%;
+}
+/* .navbar ul li .drp{
+color:white;
+} */
+.navbar-dark .navbar-nav .nav-link {
+    color:white;
+}

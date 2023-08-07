@@ -1,0 +1,85 @@
+.aboutcardbody .title{
+    color: rgb(163, 36, 36);
+    font-size: 30px;
+    text-align: center;
+}
+.txt img{
+    border-radius: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+.txt p{
+    color: white;
+    text-align: center;
+    font-size: 87%;
+}
+#iconSection{
+    text-align: center;
+
+}
+#iconSection .icon{
+margin: 5px;
+}
+#iconSection .line1{
+    margin-bottom: 0;
+    margin-top: 0;
+    width: 10%;
+    margin: auto;
+}
+#iconSection .line{
+    margin-top: 0;
+    width: 5%;
+    margin: auto;
+}
+#iconSection .line6{
+    margin-bottom: 0;
+    margin-top: 0;
+    width: 60%;
+    margin: auto;
+}
+#iconSection .line5{
+    margin-bottom: 0;
+    margin-top: 0;
+    width: 50%;
+    margin: auto;
+}
+#iconSection .line4{
+    margin-bottom: 0;
+    margin-top: 0;
+    width: 40%;
+    margin: auto;
+}
+#iconSection .line3{
+    margin-bottom: 0;
+    margin-top: 0;
+    width: 30%;
+    margin: auto;
+}
+#iconSection .line2{
+    margin-bottom: 0;
+    margin-top: 0;
+    width: 20%;
+    margin: auto;
+}
+.comments input{
+    width: 30%;
+}
+.comments textarea{
+    resize:none;
+    width: 50%;
+    height: 15%;
+    margin-top: 4px;
+    border-radius: 10%;
+}
+.comments Button{
+margin-top: 8px;
+margin-bottom: 15px;
+}
+.cmts{
+    font-size: 87%;
+}
+.cmtsname{
+    font-size: 98%;
+}

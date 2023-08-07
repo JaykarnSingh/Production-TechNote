@@ -1,0 +1,22 @@
+.section{
+    margin-top: 80px;
+    margin-bottom: 50px;
+}
+.section h2{
+    margin-bottom: 30px;
+    font-weight: bold;
+    color: rgb(125, 120, 129);
+}
+#cardbody{
+    margin-bottom: 10px;
+}
+#cardbody .heading{
+    font-size: 150%;
+    font-weight: bold;
+    background-color: cadetblue;
+}
+#cardsbody .heading{
+    font-size: 20px;
+    font-weight: bold;
+    background-color: rgb(128, 146, 146);
+}
